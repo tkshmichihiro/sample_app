@@ -45,6 +45,9 @@ group :development, :test do
   gem 'spring'
 
   gem 'rspec-rails', '2.13.1'
+
+  gem 'test-unit' , '3.0.8'
+
 end
 
 group :production do
